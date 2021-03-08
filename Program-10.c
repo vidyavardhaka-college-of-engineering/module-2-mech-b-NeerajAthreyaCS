@@ -26,13 +26,13 @@ int main()
             small = arr[i];//missing code
         }
         
-        if (arr[i] >large)//missing code
+        if (arr[i] >large  )//missing code
         {
             large= arr[i];//missing code
         }
     }
 
-    printf("the largest and smallest elements are %d and %d",large,small);
+    printf("the largest and smallest elements are %d and %d", large,small);
 
     return 0;
 }
